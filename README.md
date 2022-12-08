@@ -55,14 +55,14 @@
          console.log("<br>")
          console.log(y); 
          
-         
+      
  OutPut :
-   
-   3
-   
-   2
- 
- 
+     
+     3
+     <br>
+     2
+     
+      
       
       
  * to number
@@ -82,15 +82,16 @@
             console.log("<br>")
             console.log(z); 
       
-   OutPut :
-   
-      5
-      <br>
-      50
-      <br>
-      2
-      <br>
-      0
+        
+ OutPut :
+     
+     5
+     <br>
+     50
+     <br>
+     2
+     <br>
+     0
       
       
  #  Implicit vs. explicit coercion
